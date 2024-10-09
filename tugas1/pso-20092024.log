@@ -1,0 +1,11 @@
+Jum 20 Sep 2024 17:50:27 WIB,, LOGIN GAGAL ke-1, RRR-rr
+Jum 20 Sep 2024 17:50:27 WIB,, LOGIN GAGAL ke-2, FWE-fwfe
+Jum 20 Sep 2024 17:50:27 WIB,, LOGIN GAGAL 3 KALI, fw-ef
+Jum 20 Sep 2024 17:51:22 WIB,, LOGIN SUKSES, JOSHUA-2306165540
+Jum 20 Sep 2024 17:52:37 WIB,, LOGIN SUKSES, JOSHUA-2306165540
+Jum 20 Sep 2024 17:52:37 WIB,, Remote Backup - Push,rsync -avh --delete dataK/ joshua@10.0.2.5:dataK, Joshua-2306165540
+Jum 20 Sep 2024 17:52:37 WIB,, Remote Backup - Pull,rsync -avh --delete joshua@10.0.2.5:dataF/ dataF, Joshua-2306165540
+Jum 20 Sep 2024 17:55:09 WIB,, LOGIN SUKSES, JOSHUA-2306165540
+Jum 20 Sep 2024 17:55:09 WIB,, LOGOUT
+Jum 20 Sep 2024 17:56:20 WIB,, LOGIN SUKSES, JOSHUA-2306165540
+Jum 20 Sep 2024 17:56:20 WIB,, Remote Backup - Push,rsync -avh --delete yyy/ yyy@yyy:yyy, Joshua-2306165540
