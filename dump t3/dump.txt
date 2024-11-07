@@ -1,0 +1,52 @@
+"Penggunaan: %s <besar gudang 1..10> <jumlah buyer 1..50> <jumlah item pembelian @buyer 1..100>\n"
+
+Membuat thread Supplier...
+Membuat thread Seller..
+Membuat 4 thread Buyer...
+
+Seller: stok barang HABIS, order dulu ke supplier
+Supplier: memasok item-1 ke gudang seller
+Supplier: memasok item-2 ke gudang seller
+Supplier: memasok item-3 ke gudang seller
+Supplier: memasok item-4 ke gudang seller
+
+Seller: barang TERSEDIA, silahkan dibeli
+
+Buyer-1: membeli item-4
+Seller: stok barang HABIS, order dulu ke supplier
+Supplier: memasok item-5 ke gudang seller
+Supplier: memasok item-6 ke gudang seller
+Supplier: memasok item-7 ke gudang seller
+Supplier: memasok item-8 ke gudang seller
+Buyer-1: membeli item-8
+
+Seller: barang TERSEDIA, silahkan dibeli
+
+Seller: stok barang HABIS, order dulu ke supplier
+Buyer-4: membeli item-7
+Buyer-3: membeli item-6
+Buyer-2: membeli item-5
+Supplier: memasok item-9 ke gudang seller
+Supplier: memasok item-10 ke gudang seller
+Supplier: memasok item-11 ke gudang seller
+Supplier: memasok item-12 ke gudang seller
+Buyer-1: membeli item-12
+
+Seller: barang TERSEDIA, silahkan dibeli
+
+Seller: stok barang HABIS, order dulu ke supplier
+Buyer-1: membeli item-11
+Buyer-3: membeli item-10
+Buyer-4: membeli item-9
+Buyer-2: membeli item-3
+Supplier: memasok item-13 ke gudang seller
+Supplier: memasok item-14 ke gudang seller
+Supplier: memasok item-15 ke gudang seller
+Supplier: memasok item-16 ke gudang seller
+
+Seller: barang TERSEDIA, silahkan dibeli
+
+Buyer-1: membeli item-16
+
+Buyer-1: SELESAI BELANJA (TERMINATE)
+
